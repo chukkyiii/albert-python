@@ -63,7 +63,7 @@ async def identify(message):
     await message.channel.send(message.author.id)
 
 keep_alive()
-token = 'Njk3ODM4NzMyNzcwMDE3MzMw.Xo9G9w.RerIqXIZxrBBMtbIvhifAwHE4XE'
+token = 'your token'
 
 bot.run(token)
 
